@@ -1,0 +1,9 @@
+[user]
+	email = david.wang@kirinou.top
+	name = David Wang
+[init]
+	defaultBranch = master
+[commit]
+	gpgsign = true
+[core]
+	editor = vim
