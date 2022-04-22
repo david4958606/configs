@@ -130,3 +130,4 @@ source /usr//share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 # alias
 alias ll='exa --long'
 alias lg='exa --long --git'
+alias du=duf
