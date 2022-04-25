@@ -1,6 +1,7 @@
 [user]
 	email = david.wang@kirinou.top
 	name = David Wang
+	signingkey = 36299CA257BB07A4
 [init]
 	defaultBranch = master
 [commit]
